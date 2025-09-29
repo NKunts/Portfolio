@@ -1,17 +1,9 @@
 # =============================================================================
-# Mission 3: Multiple Light Beams (No Collision)
+# Mission 3: Multiple Light Beams (No Collision) Skeleton
 # =============================================================================
-# Purpose:
-#   - Extends Mission 2 by introducing multiple parallel light beams.
-#   - Demonstrates how to manage and render several moving particles.
-# Guidance for Participants:
-#   - Spawn multiple beams at regular vertical intervals using spawn_multiple_beams().
-#   - No collision detection or interaction between beams yet.
-#   - Experiment with beam spacing and observe the effect on the simulation.
-# Implementation Notes:
-#   - Particle positions and velocities are managed in arrays for efficiency.
-#   - Later missions will add collision detection and more complex behaviors.
-#   - (optional) Review the update and handle_key methods for control logic and beam management.
+# This skeleton provides the structure for managing and rendering multiple light beams.
+# Implement the logic for spawning, updating, and rendering multiple beams.
+# The vertex shader setup from previous missions is available for reuse.
 # =============================================================================
 
 
@@ -21,84 +13,38 @@ from .mission2_single_beam import Mission2SingleBeam
 
 
 class Mission3MultipleBeamsNoCollision(Mission2SingleBeam):
-    """Mission 3: Multiple parallel light beams without collision detection"""
-    
+    """
+    Skeleton for Mission 3: Multiple parallel light beams without collision detection.
+    """
+
     def get_name(self) -> str:
         return "Mission 3: Multiple Light Beams"
-    
+
     def initialize(self):
-        """Set up shaders and create multiple particles"""
-        # Mission 3 specific settings (set before parent init)
-        self.spacing = 24  # pixels between beam rows
-        
-        # Initialize parent class (shaders, etc.) 
-        # This will call spawn_particle -> spawn_multiple_beams
-        super().initialize()
-    
-    def spawn_particle(self):
-        """Override to spawn multiple beams instead of single particle"""
-        self.spawn_multiple_beams()
-    
-    def spawn_multiple_beams(self):
-        """Create multiple parallel light beams"""
-        margin = 40
-        ys = np.arange(margin, self.height - margin + 1, max(2, self.spacing), dtype=np.int32)
-        count_per_beam = 80
-        x0 = -200.0  # Start particles off-screen to the left
-        
-        # Stagger initial x positions so beams appear continuous
-        pts = []
-        vels = []
-        for y in ys:
-            for i in range(count_per_beam):
-                pts.append([x0 - i * 1.5, float(y)])
-                vels.append([self.speed, 0.0])
-        
-        self.pos = np.array(pts, dtype=np.float32)
-        self.vel = np.array(vels, dtype=np.float32)
-        self.alive = np.ones(len(self.pos), dtype=bool)
-    
+        """
+        Set up shaders and create multiple particles.
+        Reuse the vertex shader setup from Mission 2. Implement the rest of the logic.
+        """
+        # TODO: Spawn multiple beams and set up OpenGL resources
+        pass
+
     def update(self, dt: float):
-        """Update multiple particles WITHOUT collision detection"""
-        if self.paused or len(self.pos) == 0:
-            return
-            
-        # Move particles
-        self.pos[self.alive] += self.vel[self.alive] * dt
-        
-        # Check if particles went off-screen to the right - respawn them
-        for i in range(len(self.pos)):
-            if self.alive[i] and self.pos[i, 0] > self.width + 50:
-                # Respawn particle on the left with same Y coordinate
-                self.pos[i, 0] = -50.0
-                # Keep original Y position to maintain beam formation
-                self.alive[i] = True
-        
-        # Only cull particles that have gone too far off-screen vertically
-        # NO collision detection with black hole
-        onscreen_y = (self.pos[:, 1] >= -50) & (self.pos[:, 1] < self.height + 50)
-        self.alive &= onscreen_y
-        
-        # Rebuild buffer from current alive set
-        self.rebuild_vbo()
-    
+        """
+        Update multiple particles. Implement animation logic here.
+        """
+        # TODO: Move all beams and respawn if needed
+        pass
+
+    def render(self):
+        """
+        Render the grid background and multiple light beams. Implement rendering logic here.
+        """
+        # TODO: Draw all beams using OpenGL
+        pass
+
     def handle_key(self, key, action, modifiers, keys):
-        """Handle keyboard input for Mission 3"""
-        if action == keys.ACTION_PRESS:
-            if key == keys.SPACE:
-                self.paused = not self.paused
-                print(f"Mission 3: Animation {'paused' if self.paused else 'unpaused'}")
-            elif key == keys.R:
-                self.spawn_multiple_beams()
-                self.rebuild_vbo()
-                print("Mission 3: Multiple beams reset")
-            elif key == keys.COMMA:  # tighten spacing
-                self.spacing = max(2, self.spacing - 2)
-                self.spawn_multiple_beams()
-                self.rebuild_vbo()
-                print(f"Mission 3: Spacing decreased to {self.spacing}")
-            elif key == keys.PERIOD:  # widen spacing
-                self.spacing = min(self.height, self.spacing + 2)
-                self.spawn_multiple_beams()
-                self.rebuild_vbo()
-                print(f"Mission 3: Spacing increased to {self.spacing}")
+        """
+        Handle keyboard input for Mission 3. Implement controls as needed.
+        """
+        # TODO: Add keyboard controls for beam management
+        pass
