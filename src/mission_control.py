@@ -9,7 +9,7 @@ from missions.mission2_single_beam import Mission2SingleBeam
 from missions.mission3_multiple_beams_no_collision import Mission3MultipleBeamsNoCollision
 from missions.mission4_multiple_beams import Mission4MultipleBeams
 from missions.mission5_units_schwarzschild import Mission5UnitsSchwarzschild
-from missions.mission6_fixed_timestep import Mission6FixedTimestepSimple
+from missions.mission6_fixed_timestep import Mission6FixedTimestep
 from missions.mission7_light_bending import Mission7LightBending
 from missions.mission8_validation import Mission8Validation
 from missions.mission9_redshift import Mission9Redshift
@@ -46,7 +46,7 @@ class MissionControl(mglw.WindowConfig):
         elif mission_number == 5:
             self.active_mission = Mission5UnitsSchwarzschild(self.ctx, self.w, self.h)
         elif mission_number == 6:
-            self.active_mission = Mission6FixedTimestepSimple(self.ctx, self.w, self.h)
+            self.active_mission = Mission6FixedTimestep(self.ctx, self.w, self.h)
         elif mission_number == 7:
             self.active_mission = Mission7LightBending(self.ctx, self.w, self.h)
         elif mission_number == 8:

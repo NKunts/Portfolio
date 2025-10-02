@@ -43,6 +43,7 @@ This repository is the skeleton branch for the Black Hole Simulator 2D hackathon
 
 - Work in your own solution branch cloned from this skeleton.
 - Each mission builds on the previous one. Complete them in order for best results.
+- Run `mission_control.py` to test your implementation. In case of doubt ask one of the briliant "scientists" or run the solution branch.
 - Ask questions and collaborate with other participants!
 
 ## Requirements
