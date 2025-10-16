@@ -1,0 +1,25 @@
+# General
+.DS_Store
+Thumbs.db
+.idea/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Local envs
+venv/
+.venv/
+
+# Build
+dist/
+build/
+
+# Temporary
+*.log
+*.tmp
+
+# Old root leftovers not to track
+/src/
+/missions/
+
