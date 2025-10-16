@@ -1,0 +1,605 @@
+<mxfile host="app.diagrams.net" modified="2023-02-06T22:00:56.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8zHJP5n6AtuA_Hz8H1Dn" version="20.2.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2873" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-108" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Fg11PCQkLtcq3vdQLecm-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Страна проживания входит в ЕАЭС" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="-90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-64" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-0" target="Fg11PCQkLtcq3vdQLecm-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-67" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-0" target="Fg11PCQkLtcq3vdQLecm-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-0" value="Более 600 тыс. рублей или эквивалента в год?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="679" y="276.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-162" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-15" target="Fg11PCQkLtcq3vdQLecm-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="362" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-292" value="No" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-15" target="Fg11PCQkLtcq3vdQLecm-206">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-15" value="Уведомили налоговую об открытии счета?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="302" y="269.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-34" value="CRS не предполагает обмен информации о налоговых нерезидентах" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="945" y="-110" width="120" height="106.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-38" value="См. диаграмму валютное резидентсво" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1178" y="18.5" width="109" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-39" target="Fg11PCQkLtcq3vdQLecm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-39" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="23.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-41" value="Вы не налоговый &lt;br&gt;резидент" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="73.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-34" target="Fg11PCQkLtcq3vdQLecm-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="489" y="935" as="sourcePoint" />
+            <mxPoint x="539" y="885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-321" value="Yes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-47" target="Fg11PCQkLtcq3vdQLecm-319">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-322" value="No" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-47" target="Fg11PCQkLtcq3vdQLecm-279">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-47" value="Уведомили в течение одного месяца?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="302" y="391.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-53" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Fg11PCQkLtcq3vdQLecm-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="181.5" as="targetPoint" />
+            <mxPoint x="800" y="181.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-143" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-52" target="Fg11PCQkLtcq3vdQLecm-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-52" value="Проводите валютные операции без открытия банковского счета?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="679" y="141.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-54" target="Fg11PCQkLtcq3vdQLecm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-54" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="156.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-55" value="Оплата наличной &lt;br&gt;валютой за рубежом не &lt;br&gt;отслеживается &lt;br&gt;(см. исключения)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="201.5" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-77" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-177" target="Fg11PCQkLtcq3vdQLecm-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-90" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-63" target="Fg11PCQkLtcq3vdQLecm-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-178" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-63" target="Fg11PCQkLtcq3vdQLecm-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-63" value="Предоставили&amp;nbsp;отчет о переводах денежных средств в ФНС?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="679" y="381.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-66" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="285.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-68" value="Отчет не требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="335.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-71" target="Fg11PCQkLtcq3vdQLecm-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-71" value="Административный штраф 20-40% суммы средств, зачисленных на электронное средство платежа за отчетный период" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1178" y="479" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-94" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Fg11PCQkLtcq3vdQLecm-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="877.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Fg11PCQkLtcq3vdQLecm-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="842.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-98" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fg11PCQkLtcq3vdQLecm-96">
+          <mxGeometry x="0.2328" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-76" value="Сумма на кошельке/счете квалифицирована как доход?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="808.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-82" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-87" target="Fg11PCQkLtcq3vdQLecm-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="416.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-81" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1373.5" y="391.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-84" value="Выявление&lt;br&gt;нарушения невозможно" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1318.5" y="446.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-209" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-87" target="Fg11PCQkLtcq3vdQLecm-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-87" value="Кошелек анонимный и не связан с CRS?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="381.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-134" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-93" target="Fg11PCQkLtcq3vdQLecm-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-93" target="Fg11PCQkLtcq3vdQLecm-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-137" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fg11PCQkLtcq3vdQLecm-136">
+          <mxGeometry x="0.2096" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-93" value="Предоставили 3-НДФЛ до 30 апреля следующего года?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="909.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-95" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="862" y="817.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-97" value="Отчет не &lt;br&gt;требуется" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="847" y="868.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-142" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-102" target="Fg11PCQkLtcq3vdQLecm-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-144" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-102" target="Fg11PCQkLtcq3vdQLecm-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="362" y="241.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-102" value="Предоставили ИНН?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="302" y="161.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-109" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-106" target="Fg11PCQkLtcq3vdQLecm-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-115" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-106" target="Fg11PCQkLtcq3vdQLecm-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-106" value="Являетесь налоговым резидентом РФ?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="27.5" width="120" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-107" value="Налоговыми резидентами РФ в календарном году признаются лица, которые в течение календарного года находятся в России не менее 183 дней" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="6.5" width="200" height="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-116" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="181.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-140" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-113" target="Fg11PCQkLtcq3vdQLecm-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="182" as="targetPoint" />
+            <mxPoint x="420" y="181.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-113" value="Открываете банковский счёт?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="161.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-114" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.993;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-106" target="Fg11PCQkLtcq3vdQLecm-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="995" y="143.25" as="sourcePoint" />
+            <mxPoint x="937.677669529664" y="202.32233047033606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-124" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-120" target="Fg11PCQkLtcq3vdQLecm-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-214" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-120" target="Fg11PCQkLtcq3vdQLecm-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1238" y="818.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1238" y="884" />
+              <mxPoint x="1100" y="884" />
+              <mxPoint x="1100" y="1034" />
+              <mxPoint x="885" y="1034" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-120" value="Штрафы начислены в течение 3 лет?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1178" y="655.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-123" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1373.5" y="664.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-125" value="Срок давности истек" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1323.5" y="714.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-126" value="&lt;span style=&quot;text-align: left;&quot;&gt;Срок давности по налоговым правонарушениям 3 года. При неуплате налогов и грубом нарушении правил учета срок считают со следующего налогового периода после нарушения. В остальных случаях срок давности считают со дня нарушения.&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1478.5" y="619.5" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-127" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-126" target="Fg11PCQkLtcq3vdQLecm-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="995" y="114.75" as="sourcePoint" />
+            <mxPoint x="937.677669529664" y="173.82233047033606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-132" target="Fg11PCQkLtcq3vdQLecm-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-132" target="Fg11PCQkLtcq3vdQLecm-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-132" value="См. диаграмму гражданство" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1173" y="979.5" width="109" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-133" target="Fg11PCQkLtcq3vdQLecm-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-133" value="Административный ш&lt;span style=&quot;text-align: left;&quot;&gt;траф составляет 5% от суммы неуплаченных налогов за каждый месяц. Штраф не превысит 25% от суммы неуплаченных налогов&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="501" y="1009.5" width="120" height="158.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-135" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="862" y="919.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-138" value="Уплатите налог" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="968.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-149" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-141" target="Fg11PCQkLtcq3vdQLecm-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-49" y="241.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-169" y="181.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-141" value="Предоставили BSN?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-109" y="161.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-151" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-148" target="Fg11PCQkLtcq3vdQLecm-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-149" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-161" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-148" target="Fg11PCQkLtcq3vdQLecm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-148" value="Уведомили налоговую об открытии счета?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-109" y="269.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-152" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFFF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-219" y="264.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-152" target="Fg11PCQkLtcq3vdQLecm-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-154" value="Выявление&lt;br&gt;нарушения &lt;br&gt;маловероятно" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-254" y="308.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-155" value="&lt;span style=&quot;text-align: left;&quot;&gt;Для установления требуется отдельное расследование в отношении гражданина при сотрудничестве местных властей&amp;nbsp;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-401" y="230" width="147" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-156" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-26.67999999999995" y="365.82" as="sourcePoint" />
+            <mxPoint x="-254" y="289.8463157894739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-157" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-219" y="156.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-158" value="Счет не может &lt;br&gt;быть открыт" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-249" y="201.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-169" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="1063.75" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-172" value="Уплатите штраф" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="825" y="1112.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-180" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-177" target="Fg11PCQkLtcq3vdQLecm-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-177" value="Отчет сдан в срок до 1 июня следующего года?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="481.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-187" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-179" target="Fg11PCQkLtcq3vdQLecm-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-262" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-179" target="Fg11PCQkLtcq3vdQLecm-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-179" value="Первое нарушение подачи отчетности?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="481.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-184" target="Fg11PCQkLtcq3vdQLecm-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-184" value="Административный штраф от 2500-3000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="935" y="712.62" width="120" height="37.38" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-186" target="Fg11PCQkLtcq3vdQLecm-257">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="552" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-186" value="Административный штраф до 20 000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1006" y="481.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-197" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-209.5" y="998.6200000000001" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-198" value="Уплатите штраф" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-249.5" y="1049.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-200" target="Fg11PCQkLtcq3vdQLecm-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-200" value="См. диаграмму гражданство" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-372.5" y="993.6199999999999" width="109" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-222" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-206" target="Fg11PCQkLtcq3vdQLecm-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-298" value="Yes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-206" target="Fg11PCQkLtcq3vdQLecm-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-206" value="Банк ообменивается информацией в рамках CRS?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-109" y="377.69" width="120" height="67.62" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-220" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFFF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-219" y="386.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-223" value="Выявление&lt;br&gt;нарушения &lt;br&gt;маловероятно" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-249" y="436.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-224" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.309;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-220" target="Fg11PCQkLtcq3vdQLecm-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-209" y="299.5" as="sourcePoint" />
+            <mxPoint x="-244" y="299.8463157894739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-233" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-231" target="Fg11PCQkLtcq3vdQLecm-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-240" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-231" target="Fg11PCQkLtcq3vdQLecm-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-231" value="Штрафы начислены в течение 3 лет?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-99.5" y="990" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-236" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-64.5" y="1106.56" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-237" value="Срок давности истек" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-115.5" y="1157.78" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-238" value="&lt;span style=&quot;text-align: left;&quot;&gt;Срок давности по налоговым правонарушениям 3 года. При неуплате налогов и грубом нарушении правил учета срок считают со следующего налогового периода после нарушения. В остальных случаях срок давности считают со дня нарушения.&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-422.5" y="1097.28" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-239" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-238" target="Fg11PCQkLtcq3vdQLecm-236">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-244.5" y="996.56" as="sourcePoint" />
+            <mxPoint x="-81.5" y="998.06" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-243" value="&lt;span style=&quot;text-align: left;&quot;&gt;Республика Беларусь, Казахстан, Кыргызская Республика и Армения&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="-110" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-244" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Fg11PCQkLtcq3vdQLecm-243">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="206.625" as="sourcePoint" />
+            <mxPoint x="937.677669529664" y="186.17766952966394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-245" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Fg11PCQkLtcq3vdQLecm-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-40" as="sourcePoint" />
+            <mxPoint x="570" y="147.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-246" value="См. диаграмму счет ЕАЭС" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="-100" width="109" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-249" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Окрытие счета в &quot;недружественных странах&quot;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="-170" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-256" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-250" target="Fg11PCQkLtcq3vdQLecm-184">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="927" y="714.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-250" value="более 30 дней просрочки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765" y="714.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-257" target="Fg11PCQkLtcq3vdQLecm-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-257" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1084" y="651.9" width="42" height="43.44" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-268" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-258" target="Fg11PCQkLtcq3vdQLecm-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-269" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-258" target="Fg11PCQkLtcq3vdQLecm-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-258" value="10-30 дней просрочки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765" y="653.62" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-264" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-259" target="Fg11PCQkLtcq3vdQLecm-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-266" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-259" target="Fg11PCQkLtcq3vdQLecm-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-259" value="Менее 10 дней просрочки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-260" target="Fg11PCQkLtcq3vdQLecm-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-260" value="Административный штраф от 300-500" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="935" y="597.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-267" target="Fg11PCQkLtcq3vdQLecm-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-267" value="Административный штраф от 1000-1500" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="935" y="652.93" width="120" height="41.38" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-359" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-279" target="Fg11PCQkLtcq3vdQLecm-351">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-169" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-279" value="Административный штраф от 4000-5000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-111" y="479" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-348" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-284">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-284" value="Административный штраф от 2500-3000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="830.12" width="120" height="37.38" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-307" value="Yes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-285" target="Fg11PCQkLtcq3vdQLecm-284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-285" value="более 30 дней просрочки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="221.5" y="828.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-303" value="No" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-286" target="Fg11PCQkLtcq3vdQLecm-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-306" value="Yes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-286" target="Fg11PCQkLtcq3vdQLecm-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-286" value="10-30 дней просрочки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="221.5" y="767.62" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-302" value="No" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-287" target="Fg11PCQkLtcq3vdQLecm-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-305" value="Yes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-287" target="Fg11PCQkLtcq3vdQLecm-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-287" value="Менее 10 дней просрочки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="221.5" y="704" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-344" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-288" target="Fg11PCQkLtcq3vdQLecm-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-288" value="Административный штраф от 300-500" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="701.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-345" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-289" target="Fg11PCQkLtcq3vdQLecm-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-289" value="Административный штраф от 1000-1500" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="766.93" width="120" height="41.38" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-350" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-308" target="Fg11PCQkLtcq3vdQLecm-231">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="118" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-308" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="97" y="923.6199999999999" width="42" height="43.44" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-323" value="Yes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-319" target="Fg11PCQkLtcq3vdQLecm-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-319" value="Предоставили&amp;nbsp;отчет о переводах денежных средств в ФНС?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="302" y="470" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-326" value="No" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-320" target="Fg11PCQkLtcq3vdQLecm-324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-330" value="Yes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-320" target="Fg11PCQkLtcq3vdQLecm-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-320" value="Отчет сдан в срок до 1 июня следующего года?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="302" y="570" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-327" value="No" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-324" target="Fg11PCQkLtcq3vdQLecm-325">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-324" value="Первое нарушение подачи отчетности?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="570.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-342" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-325" target="Fg11PCQkLtcq3vdQLecm-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-325" value="Административный штраф до 20 000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" y="570" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-341" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-324" target="Fg11PCQkLtcq3vdQLecm-287">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="670" as="sourcePoint" />
+            <mxPoint x="160" y="718.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-360" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-351" target="Fg11PCQkLtcq3vdQLecm-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-169" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-351" value="Административный штраф от 2500-3000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-229" y="535.3100000000001" width="120" height="37.38" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-354" value="Отчет о движении денежных средств не сдан" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-401" y="521" width="147" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg11PCQkLtcq3vdQLecm-355" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fg11PCQkLtcq3vdQLecm-351" target="Fg11PCQkLtcq3vdQLecm-354">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-169" y="563.45" as="sourcePoint" />
+            <mxPoint x="-305.5770000000002" y="510.00000000000017" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
