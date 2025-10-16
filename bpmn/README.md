@@ -1,7 +1,8 @@
 # BPMN
 
-Place process diagrams here. Supported formats: .bpmn, .png, .pdf.
+Place process diagrams here. Supported formats: .drawio, .png, .pdf.
 
-Folders:
-- diagrams/ — export images and raw BPMN files
+Files:
+- ALM_ENG.drawio —
+- Folo_Game_Rus.drawio —
 
